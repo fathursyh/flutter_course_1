@@ -45,7 +45,7 @@ class _DiceRollState extends State<DiceRoll> {
           )),
           onPressed: rollDice,
           child: const Text(
-            'Roll Dice!',
+            'Roll Dice',
             style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
           ))
     ]);

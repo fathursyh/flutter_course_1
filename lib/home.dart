@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
           elevation: 10,
           centerTitle: true,
           shadowColor: Colors.black,
-          backgroundColor: const Color.fromARGB(255, 251, 251, 91),
+          backgroundColor: Color.fromARGB(255, 99, 99, 36),
           title: const Row(
             mainAxisSize: MainAxisSize.min,
             children: [
