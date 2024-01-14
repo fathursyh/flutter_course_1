@@ -34,7 +34,7 @@ class HomePage extends StatelessWidget {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              StyledText('DADU AJAIB'),
+              StyledText('DADU KEREN'),
               SizedBox(height: 40),
               DiceRoll(),
             ],
