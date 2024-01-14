@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
             children: [
               Icon(Icons.accessible_rounded),
               SizedBox(width: 10),
-              Text('APLIKASI DADU'),
+              Text('APLIKASI BABU'),
             ],
           ),
         ),
